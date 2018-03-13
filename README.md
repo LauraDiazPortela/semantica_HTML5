@@ -15,6 +15,6 @@ El elemento -nav- define un conjunto de enlaces de navegación.
 	
 El elemento -aside- define algún contenido aparte del contenido en el que está ubicado (como una barra lateral).
 	
-El elemento -img- define la imagen, el elemento <figcaption> define el título.
+El elemento -img- define la imagen, el elemento -figcaption- define el título.
 	
 Define claramente su contenido.
