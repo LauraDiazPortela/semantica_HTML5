@@ -18,3 +18,7 @@ El elemento -aside- define algún contenido aparte del contenido en el que está
 El elemento -img- define la imagen, el elemento -figcaption- define el título.
 	
 Define claramente su contenido.
+
+Ver ejemplo aqui: 
+
+https://cdn.rawgit.com/LauraDiazPortela/semantica_HTML5/master/semantica_webHTML5/public_html/index.html
