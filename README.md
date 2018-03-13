@@ -3,11 +3,11 @@ Un elemento semántico describe claramente su significado tanto para el navegado
 
 Ejemplos de elementos semánticos : 
 
-El elemento <section> define una sección en un documento.
+El elemento section define una sección en un documento.
   
-El elemento <article> especifica contenido independiente y autónomo.
+El elemento article especifica contenido independiente y autónomo.
   
-El elemento <header> especifica un encabezado para un documento o sección.
+El elemento header <form> especifica un encabezado para un documento o sección.
 	
 El elemento <footer> especifica un pie de página para un documento o sección.
 	
